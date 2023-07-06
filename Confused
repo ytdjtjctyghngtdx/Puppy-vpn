@@ -1,0 +1,40 @@
+{
+  "Version": "1.1",
+  "ReleaseNotes": "Update Available",
+  "UrlUpdate": "https://pastebin.com/raw/eshdy2DZ",
+  "Sms": "",
+  "EmailFeedback": "ishan0771596170@gmail.com",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "Update Server",
+      "TYPE": "",
+      "FLAG": "lk.png",
+      "ServerIP": "",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+  ],
+  "Networks": [
+     {
+        "Name": "Update Server",
+        "FLAG": "tim",
+        "Payload": "",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "",
+        "ProxyPort": "80",
+        "Info": ""
+     },
+  ]
+}
