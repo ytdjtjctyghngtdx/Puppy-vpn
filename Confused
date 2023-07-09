@@ -14,26 +14,26 @@
   ],
   "Servers": [
     {
-      "Name": "Update Server",
+      "Name": "Mobitel 0",
       "TYPE": "",
-      "FLAG": "lk.png",
-      "ServerIP": "",
+      "FLAG": "br.png",
+      "ServerIP": "146.190.176.110",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "srehihub",
+      "PASS": "srehihub"
     },
   ],
   "Networks": [
      {
-        "Name": "Update Server",
-        "FLAG": "tim",
-        "Payload": "",
+        "Name": "Mobitel 0",
+        "FLAG": "br",
+        "Payload": "CONNECT [host_port] [protocol][crlf]Host: media-exp1.licdn.com[crlf]X-Online-Host: media-exp1.licdn.com[crlf]X-Forward-Host: media-exp1.licdn.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
-        "ProxyIP": "",
-        "ProxyPort": "80",
+        "ProxyIP": "146.190.110.176",
+        "ProxyPort": "8080",
         "Info": ""
      },
   ]
