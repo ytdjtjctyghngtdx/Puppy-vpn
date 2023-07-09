@@ -14,10 +14,10 @@
   ],
   "Servers": [
     {
-      "Name": "Mobitel 0",
-      "TYPE": "",
+      "Name": "Mobitel 0 By Puppy",
+      "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "146.190.176.110",
+      "ServerIP": "146.190.110.176",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -28,7 +28,7 @@
   "Networks": [
      {
         "Name": "Mobitel 0",
-        "FLAG": "br",
+        "FLAG": "br.png",
         "Payload": "CONNECT [host_port] [protocol][crlf]Host: media-exp1.licdn.com[crlf]X-Online-Host: media-exp1.licdn.com[crlf]X-Forward-Host: media-exp1.licdn.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
         "SNI": "",
         "TlsIP": "",
