@@ -24,6 +24,16 @@
       "USER": "srehihub",
       "PASS": "srehihub"
     },
+    {
+    "Name": "TELEGRAM 📥 SERVER 2 🇬🇧",
+    "FLAG": "so.png",
+    "ServerIP": "us2.ssl.ipmy.pw",
+    "ServerPort": "22",
+    "ProxyIP": "174.138.9.214",
+    "ProxyPort": "8080",
+    "ServerUser": "tunvpn.com-ceylon",
+    "ServerPass": "ceylon"
+    }
   ],
   "Networks": [
      {
