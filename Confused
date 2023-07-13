@@ -24,6 +24,7 @@
       "USER": "srehihub",
       "PASS": "srehihub"
     },
+  "Servers": [
     {
       "Name": "Mobiy Puppy",
       "TYPE": "PREMIUM",
