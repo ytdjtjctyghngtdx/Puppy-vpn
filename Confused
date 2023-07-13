@@ -24,6 +24,17 @@
       "USER": "srehihub",
       "PASS": "srehihub"
     },
+    {
+      "Name": "Mobitel 0 By Puppy",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "146.190.110.176",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "srehihub",
+      "PASS": "srehihub"
+    },
   ],
   "Networks": [
      {
@@ -36,15 +47,5 @@
         "ProxyPort": "8080",
         "Info": ""
      },
-     {
-        "Name": "Mobitel 0",
-        "FLAG": "tim",
-        "Payload": "CONNECT [host_port] [protocol][crlf]Host: media-exp1.licdn.com[crlf]X-Online-Host: media-exp1.licdn.com[crlf]X-Forward-Host: media-exp1.licdn.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
-        "SNI": "",
-        "TlsIP": "",
-        "ProxyIP": "146.190.110.176",
-        "ProxyPort": "8080",
-        "Info": ""
-     }
   ]
 }
