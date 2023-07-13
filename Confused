@@ -7,12 +7,12 @@
   "UrlContato": "https://raw.githubusercontent.com/ytdjtjctyghngtdx/Puppy-vpn/main/Confused",
   "UrlTermos": "",
   "CheckUser": "true",
-  "Udp": 
+  "Udp": [
     {
       "Porta": "7300"
     }
-  ,
-  "Servers": 
+  ],
+  "Servers": [
     {
       "Name": "Mobitel 0 By",
       "TYPE": "PREMIUM",
@@ -25,38 +25,26 @@
       "PASS": "srehihub"
     },
     {
-      "Name": "TELEGRAM 📥 SERVER 2 🇬🇧",
-      "FLAG": "so.png",
-      "ServerIP": "us2.ssl.ipmy.pw",
-      "ServerPort": "22",
-      "ProxyIP": "174.138.9.214",
-      "ProxyPort": "8080",
-      "ServerUser": "tunvpn.com-ceylon",
-      "ServerPass": "ceylon"
+    "Name": "TELEGRAM 📥 SERVER 2 🇬🇧",
+    "FLAG": "so.png",
+    "ServerIP": "us2.ssl.ipmy.pw",
+    "ServerPort": "22",
+    "ProxyIP": "174.138.9.214",
+    "ProxyPort": "8080",
+    "ServerUser": "tunvpn.com-ceylon",
+    "ServerPass": "ceylon"
     }
-  ,
-  "Networks": 
-    {
-      "Name": "Mobitel 0",
-      "FLAG": "tim",
-      "Payload": "CONNECT [host_port protocolcrlfHost: media-exp1.licdn.comcrlfX-Online-Host: media-exp1.licdn.comcrlfX-Forward-Host: media-exp1.licdn.comcrlfConnection: Keep-AlivecrlfUser-Agent: uacrlfcrlf",
-      "SNI": "",
-      "TlsIP": "146.190.110.176",
-      "ProxyIP": "146.190.110.176",
-      "ProxyPort": "8080",
-      "Info": ""
-    },
-    {
-      "Name": "airtel buypass bn",
-      "FLAG": "sg.png",
-      "Payload": "",
-      "SNI": "docs.google.com",
-      "Info": ""
-    },
-    {
-      "Name": "ALL NET YOUTUBE",
-      "Payload": "SSL",
-      "Info": "redirect.googlevideo.com"
-    }
+  ],
+  "Networks": [
+     {
+        "Name": "Mobitel 0",
+        "FLAG": "tim",
+        "Payload": "CONNECT [host_port] [protocol][crlf]Host: media-exp1.licdn.com[crlf]X-Online-Host: media-exp1.licdn.com[crlf]X-Forward-Host: media-exp1.licdn.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]",
+        "SNI": "",
+        "TlsIP": "",
+        "ProxyIP": "146.190.110.176",
+        "ProxyPort": "8080",
+        "Info": ""
+      }
   ]
 }
