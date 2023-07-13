@@ -41,9 +41,6 @@
         "FLAG": "sg.png",
         "Payload": "",
         "SNI": "docs.google.com",
-        "TlsIP": "",
-        "ProxyIP": "",
-        "ProxyPort": "",
         "Info": ""
      },
   ]
