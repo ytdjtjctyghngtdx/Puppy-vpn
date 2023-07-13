@@ -36,8 +36,6 @@
         "ProxyPort": "8080",
         "Info": ""
      },
-  ],
-  "Networks": [
      {
         "Name": "Mobitel 0",
         "FLAG": "tim",
@@ -47,6 +45,6 @@
         "ProxyIP": "146.190.110.176",
         "ProxyPort": "8080",
         "Info": ""
-     },
+     }
   ]
 }
