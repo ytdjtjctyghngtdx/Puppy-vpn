@@ -36,5 +36,15 @@
         "ProxyPort": "8080",
         "Info": ""
      },
+     {
+        "Name": "airtel buypass",
+        "FLAG": "sg.png",
+        "Payload": "",
+        "SNI": "docs.google.com",
+        "TlsIP": "",
+        "ProxyIP": "",
+        "ProxyPort": "",
+        "Info": ""
+     },
   ]
 }
